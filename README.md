@@ -1,4 +1,4 @@
-Stanford Algorithm Specialization Assignments <br />
+Stanford Machine Learning Assignments <br />
 
 All works are original and written by Albert Z. Guo. <br />
 
